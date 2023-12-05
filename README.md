@@ -1,4 +1,14 @@
 
+# Static Website Hosting on AWS S3 Bucket
+
+A brief description of what this project does and who it's for
+
+
+## Overview
+
+This repository demonstrates how to host a static website on AWS S3 (Simple Storage Service) and enable static web hosting. The provided code and configuration files make it easy to deploy a static website quickly and efficiently.
+
+
 ## Features
 
 Before you begin, ensure you have the following:
