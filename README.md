@@ -59,7 +59,7 @@ After a few minutes, your website should be accessible at the following endpoint
 Replace your-unique-bucket-name and your-preferred-region with the appropriate values.
 
 
-Cleanup
+### Cleanup
 
 To delete the S3 bucket and associated resources:
 
