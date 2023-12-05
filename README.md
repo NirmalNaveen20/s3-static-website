@@ -54,11 +54,9 @@ Update the index.html with the actual name of your main HTML file if it's differ
 
 After a few minutes, your website should be accessible at the following endpoint:
 
+`http://your-unique-bucket-name.s3-website-your-preferred-region.amazonaws.com`
 
-
-    http://your-unique-bucket-name.s3-website-your-preferred-region.amazonaws.com
-
-    Replace your-unique-bucket-name and your-preferred-region with the appropriate values.
+Replace your-unique-bucket-name and your-preferred-region with the appropriate values.
 
 
 Cleanup
